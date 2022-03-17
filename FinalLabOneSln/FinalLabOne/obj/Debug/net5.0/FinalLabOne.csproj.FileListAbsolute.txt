@@ -1,0 +1,15 @@
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.csproj.AssemblyReference.cache
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.AssemblyInfoInputs.cache
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.AssemblyInfo.cs
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.csproj.CoreCompileInputs.cache
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/bin/Debug/net5.0/FinalLabOne.deps.json
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/bin/Debug/net5.0/FinalLabOne.runtimeconfig.json
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/bin/Debug/net5.0/FinalLabOne.runtimeconfig.dev.json
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/bin/Debug/net5.0/FinalLabOne.dll
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/bin/Debug/net5.0/ref/FinalLabOne.dll
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/bin/Debug/net5.0/FinalLabOne.pdb
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.dll
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/ref/FinalLabOne.dll
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.pdb
+/Users/raazupahlowan/Projects/FinalLabOneSln/FinalLabOne/obj/Debug/net5.0/FinalLabOne.genruntimeconfig.cache
